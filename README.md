@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PerkyColonel a dutch student of 17
+- 👋 Hi, I’m @PerkyColonel a dutch student of 18
 - 👀 I’m interested in Programming, I also like building prototype
 - 🌱 I’m currently learning Software Development
 - 📫 I am available on my e-mail: tmc.heuvelman@gmail.com
